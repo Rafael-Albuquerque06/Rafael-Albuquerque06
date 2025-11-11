@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# Rafael Albuquerque
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack e Cientista de Dados`**
 
 Me chamo Rafael Albuquerque, tenho 19 anos e sou natural de Belem do Pará . Concluí o ensino médio no Physics. Atualmente, estou cursando Ciência da Computação no Cesupa (Centro Universitário do Estado do Pará). Sou apaixonado por tecnologia e você pode ver meu portifólio aqui "[Rafael Albuquerque](docs)".
 
@@ -51,14 +51,6 @@ Me chamo Rafael Albuquerque, tenho 19 anos e sou natural de Belem do Pará . Con
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -72,38 +64,6 @@ Me chamo Rafael Albuquerque, tenho 19 anos e sou natural de Belem do Pará . Con
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
