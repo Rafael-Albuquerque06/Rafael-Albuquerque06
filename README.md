@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack e Cientista de Dados`**
 
-Me chamo Rafael Albuquerque, tenho 19 anos e sou natural de Belem do Pará . Concluí o ensino médio no Physics. Atualmente, estou cursando Ciência da Computação no Cesupa (Centro Universitário do Estado do Pará). Sou apaixonado por tecnologia e você pode ver meu portifólio aqui "[Portifólio](portifólio)".
+Me chamo Rafael Albuquerque, tenho 19 anos e sou natural de Belem do Pará . Concluí o ensino médio no Physics. Atualmente, estou cursando Ciência da Computação no Cesupa (Centro Universitário do Estado do Pará). Sou apaixonado por tecnologia.
 
 
 ---
